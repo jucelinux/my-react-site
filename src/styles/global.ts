@@ -15,6 +15,8 @@ html {
 html,
 body,
 #root {
+  background: #0D0814;
+  color: #f5f5fc;
   min-width: 100%;
   height: 100%;
   text-rendering: optimizeLegibility;
@@ -32,6 +34,7 @@ h1, h2, h3, h4, h5, h6, strong {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
+  color: #FFCC73;
 }
 li {
   list-style: none;
