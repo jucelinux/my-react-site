@@ -40,7 +40,7 @@ Special thanks to [RBritoX](https://github.com/RBritoX) for guided me in this ne
 - 😁&nbsp; *[Styled-Icons](https://styled-icons.js.org/)*
 
 ## 🏁&nbsp; Run project
-Clone the project: `git clone https://github.com/RBritoX/template-next-ts`
+Clone the project: `git clone https://github.com/jucelinux/my-react-site`
 
 🖥&nbsp; To run the **Front-End**, open terminal and execute the following commands:
 ````zsh
